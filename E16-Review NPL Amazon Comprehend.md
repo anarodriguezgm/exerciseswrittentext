@@ -1,5 +1,5 @@
 
-##
+### Amazon Comprehend
 Más que un producto comercial, Amazon Comprehend es un servicio que ofrece Amazon de procesamiento de lenguaje natural (NLP) para extraer información sobre el contenido de los documentos.
 Trabaja identificando lo siguiente:
 Idioma: identifica el idioma dominante en un documento entre 100 idiomas, y se apoya en los identificadores de RFC 5646 para esta tarea, que consiste en una lista de tags o combinación de letras  denominados códigos de idioma que permiten identificar el lenguaje de un texto.
