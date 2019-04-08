@@ -13,10 +13,11 @@ Este servicio es completamente administrado por Amazon, no hay equipos de cómpu
 
 Por: Ana Milena Rodríguez
 
-Tomado de:
+Tomado de:  
 https://aws.amazon.com/es/comprehend/
 https://aws.amazon.com/es/comprehend/features/
 https://docs.aws.amazon.com/es_es/comprehend/latest/dg/what-is.html
 https://docs.aws.amazon.com/es_es/comprehend/latest/dg/how-it-works.html
 https://docs.aws.amazon.com/es_es/comprehend/latest/dg/topic-modeling.html
+http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
 https://docs.aws.amazon.com/es_es/comprehend/latest/dg/how-entities.html
